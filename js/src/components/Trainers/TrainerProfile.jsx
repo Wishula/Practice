@@ -94,8 +94,8 @@ const TrainerProfile = () => {
         <div className='lefttp'>
             <Header/>
             <div className='tp-text'>
-            <div><span className='stroke-text'>Hi Thiloshana </span>
-            </div>
+            <span className='stroke-text'>Hi Thiloshana </span>
+            
         
             </div>
         </div>

@@ -221,6 +221,7 @@ button {
 @media screen and (max-width: 768px) {
     .trainerdetailsform {
       width: 75%;
+      height: 70rem;
       margin-left: 2.75rem;
       margin-right: 0;
       padding: 10px;
@@ -245,7 +246,7 @@ button {
 
    /* Add your responsive styles here */
   .time {
-    margin-left: 1rem;
+    margin-left: 1.5rem;
     flex-direction: column; /* Adjust margins for smaller screens */
     
   }
@@ -261,7 +262,7 @@ button {
   /* Make the "Add" button full-width */
   .time button {
     width: 15rem;
-    margin-left: 2rem; /* Remove any left margin */
+    margin-left: 2.3rem; /* Remove any left margin */
   }
 
   /* Modify the styles for existing time slots */
@@ -297,7 +298,7 @@ button {
     width: 15rem
   }
   .timeslots {
-    margin-left: 0.75rem;
+    margin-left: 1.5rem;
     width: 16rem;
     padding-left: 4rem;
   }

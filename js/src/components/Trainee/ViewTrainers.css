@@ -84,6 +84,8 @@
     right: auto;
     margin-top: 2rem; /* Adjust the top margin for spacing */
     margin-right: auto;
+    margin-left: 2rem;
+    width: 85%;
   }
 
   .search-input {
@@ -95,6 +97,7 @@
     font-size: 0.875rem;
     height: 1.75rem;
     padding: 0 0.5rem;
+    margin-left: -10px;
   }
   .trainerul1 {
     margin-left: 2rem;

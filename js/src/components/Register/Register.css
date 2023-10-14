@@ -207,7 +207,7 @@
 @media screen and (max-width: 768px) {
     .register {
       flex-direction: column;
-      margin-left: 2.3rem;
+      margin-left: 0rem;
     }
   
     .leftreg,
@@ -221,7 +221,7 @@
     .rf {
       width: 75%;
       margin: 0 auto;
-      margin-left: 3px;
+      margin-left: 25px;
     }
   
     .line {

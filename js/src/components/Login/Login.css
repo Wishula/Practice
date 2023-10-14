@@ -101,6 +101,9 @@
     color: rgb(254, 254, 254);
     margin-top: 1rem;
 }
+
+
+
 .signinbutton {
     padding-top: 500rem;
     margin-left: 3rem;
@@ -247,7 +250,7 @@
     .signinbutton {
         
         align-items: center;
-        width: 100%; /* Make inputs and button full width */
+        width: 89%; /* Make inputs and button full width */
     }
 
     .logininput {
@@ -261,8 +264,8 @@
 
     .login-text {
         
-        margin-top: 8rem; /* Adjust top margin for text */
-        font-size: 2rem; /* Adjust font size for text */
+        margin-top: 4rem; /* Adjust top margin for text */
+        font-size: 2px; /* Adjust font size for text */
         text-align: left; /* Center text */
     }
 
